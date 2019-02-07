@@ -1,0 +1,65 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<div class="block title-block">
+			<div class="title">
+				About Alec
+			</div>
+		</div>
+		<div class="block description">
+			<div class="text">
+			</div>
+			<div class="contact-links">
+				<div class="github">
+					<a href="#"></a>
+				</div>
+				<div class="linkedin">
+					<a href="#"></a>
+				</div>
+				<div class="email">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="block title-block">
+			<div class="title">
+				Projects
+			</div>
+		</div>
+		<div class="block project">
+			<img class="project-image" />
+			<div class="text">
+				<div class="title">
+					
+				</div>
+				<div class="description">
+					
+				</div>
+				<div class="github">
+					<a href="#"></a>
+				</div>
+				<div class="application">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="block project">
+			<img class="project-image" />
+			<div class="text">
+				<div class="title">
+					
+				</div>
+				<div class="description">
+					
+				</div>
+				<div class="github">
+					<a href="#"></a>
+				</div>
+				<div class="application">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
